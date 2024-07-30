@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "name": "Addidas",
+        "description": "Cartoon Astronaut T-Shirts",
+        "price": 78,
+        "image": "img/products/f1.jpg"
+    },
+    {
+        "id":1,
+        "name": "Addidas",
+        "description": "Cartoon Astronaut T-Shirts",
+        "price": 78,
+        "image": "img/products/f2.jpg"
+    },
+    {
+        "id":1,
+        "name": "Addidas",
+        "description": "Cartoon Astronaut T-Shirts",
+        "price": 78,
+        "image": "img/products/f3.jpg"
+    },{
+        "id":1,
+        "name": "Addidas",
+        "description": "Cartoon Astronaut T-Shirts",
+        "price": 78,
+        "image": "img/products/f4.jpg"
+    },
+    {
+        "id":1,
+        "name": "Addidas",
+        "description": "Cartoon Astronaut T-Shirts",
+        "price": 78,
+        "image": "img/products/f5.jpg"
+    },
+    {
+        "id":1,
+        "name": "Addidas",
+        "description": "Cartoon Astronaut T-Shirts",
+        "price": 78,
+        "image": "img/products/f6.jpg"
+    },
+    {
+        "id":1,
+        "name": "Addidas",
+        "description": "Cartoon Astronaut T-Shirts",
+        "price": 78,
+        "image": "img/products/f7.jpg"
+    },
+    {
+        "id":1,
+        "name": "Addidas",
+        "description": "Cartoon Astronaut T-Shirts",
+        "price": 78,
+        "image": "img/products/f8.jpg"
+    }
+
+]
